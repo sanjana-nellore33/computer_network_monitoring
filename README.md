@@ -3,8 +3,8 @@
 📡 Network Topology Monitoring System (C Project)
 
 👥 Team Members
-Student 1: Nellore Sanjana
-Student 2: Baira Spoorthi
+Student 1:Baira Spoorthi
+Student 2:Nellore Sanjana
 
 🎯 Problem Statement
 
